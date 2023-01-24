@@ -1,0 +1,92 @@
+
+.App-header {
+
+
+  font-size: calc(10px + 2vmin);
+  color: rgb(184, 219, 192);
+  margin-left: 20px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+.searchBarStyle
+{
+  width: 500px !important;
+  height: 35px !important;
+}
+.centerForm
+{
+  margin: auto;
+}
+.MyTable
+{
+  border: 2px solid rgb(5, 5, 7);
+  width: 100%;
+}
+.MyRow
+{
+  border: 2px solid rgb(5, 5, 7);
+  background-color: grey;
+  width: 10%;
+}
+#navbarTogglerDemo02
+{
+   outline: solid 2px black;
+   width: 90%;
+   height: 56px;
+   /* padding: 120px; */
+   margin-top: 8px;
+   background-color: rgb(240, 235, 233);
+  box-shadow: 10px 10px;
+}
+#modell
+{
+  height: 200px;
+  position: relative;
+  border: 3px dashed rgb(183, 235, 236);
+}
+#browsing
+{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+
+}
+.fa
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 4px;
+  font-size: 47px;
+}
+.form-select
+{
+  position: relative;
+  margin: 0 auto;
+  border: 2px dashed rgb(163, 242, 245);
+  background-color:  #fbfdff;
+  border-radius: 4px;
+  width: 100%;
+  padding: 12px 55px 15px 15px;
+  font-size: 14px;
+  color: #007bff;
+}
+#loginForm
+{
+  width: fit-content;  
+   margin-top:84px;
+   outline: solid;
+ }
+.FormBack
+{
+  background-color: #FF0000;
+  background-repeat: no-repeat;
+  /* background-image: url('/public/beautiful-brown-color-gradient-background-free-vector.jpg');  */
+}
